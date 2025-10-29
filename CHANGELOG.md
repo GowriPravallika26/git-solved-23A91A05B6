@@ -1,0 +1,7 @@
+- 49d8469: My Git Journey (pravallika, 20 seconds ago)
+- e4b5d5a: docs: Add FAQ section (pravallika, 7 minutes ago)
+- aaa0beb: Added CheckPoint2 Screenshot (pravallika, 22 minutes ago)
+- b6de8a5: Added CheckPoint1 Screenshot (pravallika, 74 minutes ago)
+- 0312c6f: updating main (Hanu Gupta, 6 days ago)
+- fadfd24: Revise README for DevOps Simulator project (Hanu Gupta, 6 days ago)
+- ae630eb: Initial commit (Hanu Gupta, 6 days ago)
