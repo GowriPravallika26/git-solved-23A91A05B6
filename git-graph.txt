@@ -1,0 +1,18 @@
+* 155fdcd (HEAD -> main, origin/main, origin/HEAD) docs: Add changelog
+* 49d8469 My Git Journey
+* e4b5d5a (tag: v1.1.0, tag: v1.0.0) docs: Add FAQ section
+| * 1e50061 (origin/feature/another-feature) docs: Update README
+| * c5678b2 (feature/another-feature) feat: Add test feature
+|/  
+* aaa0beb (feature/new-feature) Added CheckPoint2 Screenshot
+* b6de8a5 Added CheckPoint1 Screenshot
+* 0312c6f (instructor/main, instructor/HEAD) updating main
+* fadfd24 Revise README for DevOps Simulator project
+| * 0b5a5ae (origin/dev, dev) Added CheckPoint2 Screenshot
+| * 9cc2a4e Added CheckPoint2 Screenshot
+| * 588840e Added CheckPoint2 Screenshot
+| * 02011a5 (instructor/dev) updating dev
+|/  
+| * d3dd9b2 (instructor/conflict-simulator, conflict-simulator) updating conflict-simulator
+|/  
+* ae630eb Initial commit
